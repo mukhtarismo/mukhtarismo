@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Machine Learning and Software Engineer, passionate about AI driven full stack applications. Proficient in Python, JavaScript, React.js, and AWS, with hands-on experience leading projects in machine learning, cybersecurity, and SaaS platforms. Currently pursuing a Computer Science degree at Northwestern, with a strong interest in solving real-world problems through technology. Dedicated to continuous learning and open to exciting collaborations in tech innovation.
+Aspiring Machine Learning and Software Engineer, passionate about AI driven full stack applications. Proficient in Python, JavaScript, React.js, and AWS, with hands-on experience leading projects in Web Development and Machine Learning Currently pursuing a Computer Science degree at Northwestern, with a strong interest in solving real-world problems through technology. Dedicated to continuous learning and open to exciting collaborations.
 
 
 ## 🌐 Socials:
